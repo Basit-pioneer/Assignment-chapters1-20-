@@ -1,0 +1,25 @@
+#main{
+    border: 2px solid grey;
+    height: 300px;
+    width: 200px;
+    margin: 0 auto;
+}
+.child{
+    margin-top: 35px;
+    text-align: center;
+}
+#span{
+    border: 2px solid aqua;
+}
+#tbl{
+    border: 2px solid grey;
+}
+tr{
+    border: 2px solid grey;
+}
+td{
+    border: 2px solid grey;
+}
+table{
+    margin: 0 auto;
+}

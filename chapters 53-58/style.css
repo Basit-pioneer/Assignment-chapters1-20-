@@ -1,0 +1,11 @@
+#main{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.Set{
+    width: 200px;
+    height: 200px;
+    margin-bottom: 10px;
+
+}
